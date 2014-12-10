@@ -25,6 +25,7 @@
             
         // Update the view.
         [self configureView];
+        // dit werkt
     }
 
 }
